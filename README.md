@@ -1,2 +1,2 @@
 # odin-recipes
-Creating a recipe website
+Creating recipes website
